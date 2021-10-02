@@ -1,7 +1,6 @@
 ﻿using AspNetCoreDomain.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using System;
 
 namespace AspNetCoreData.Mapping
 {
