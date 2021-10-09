@@ -7,7 +7,6 @@
   <ItemGroup>
     <ProjectReference Include="..\AspNetCoreData\AspNetCoreData.csproj" />
     <ProjectReference Include="..\AspNetCoreDomain\AspNetCoreDomain.csproj" />
-    <ProjectReference Include="..\AspNetCoreInfrastructure\AspNetCoreInfrastructure.csproj" />
   </ItemGroup>
 
 </Project>

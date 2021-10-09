@@ -48,7 +48,6 @@ namespace AspNetCoreData.Repository
             }
             catch (Exception e)
             {
-
                 throw e;
             }
         }
@@ -61,7 +60,6 @@ namespace AspNetCoreData.Repository
             }
             catch (Exception e)
             {
-
                 throw e;
             }
         }
